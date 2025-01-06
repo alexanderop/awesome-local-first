@@ -58,6 +58,8 @@ A curated list of local-first software, resources, and development tools. Local-
 
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) - Guide to building offline-first web apps
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) - Interactive tutorial explaining CRDTs with live examples
+- [Operational Transformation Visualization](https://operational-transformation.github.io/) - Interactive demonstration of how OT works in collaborative editing
 - [CRDT tutorials](https://github.com/siliconjungle/crdt-tutorials) - Practical CRDT implementation examples
 - [TinyRooms](https://github.com/tinyplex/tinyrooms) - Example multiplayer game using local-first principles
 
