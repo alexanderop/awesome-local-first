@@ -145,6 +145,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Anytype](https://anytype.io) – Local-first, P2P, E2E encrypted knowledge OS
 - [AFFiNE](https://affine.pro) – Open-source workspace combining docs, whiteboards, and databases
 - [AppFlowy](https://appflowy.com) – Open-source Notion alternative with full offline mode
+- [AhaKnow Chat](https://github.com/IHKYoung/AhaKnowChat) – Open-source local-first AI chat workspace with topic-based threads, reusable roles, and browser-native storage for prompt testing and personal knowledge exploration
 - [Standard Notes](https://standardnotes.com) – Open-source, E2E encrypted notes
 - [Joplin](https://joplinapp.org) – Open-source offline-first note-taking with optional E2E sync
 - [Notesnook](https://notesnook.com) – Open-source zero-knowledge encrypted notes
