@@ -162,6 +162,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
+- [DailyVox (2026)](https://getdailyvox.com) – Local-first AI voice diary for iOS with on-device transcription, mood tracking, and Digital Twin. Optional iCloud sync. [Source](https://github.com/intrepidkarthi/dailyvox)
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
