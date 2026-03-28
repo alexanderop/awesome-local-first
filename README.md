@@ -76,6 +76,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [OrbitDB](https://github.com/orbitdb/orbitdb) – Serverless P2P database on IPFS using Merkle-CRDTs
 - [cr-sqlite (Vulcan)](https://github.com/vlcn-io/cr-sqlite) – SQLite extension adding CRDT-based multi-writer replication
 - [libSQL](https://github.com/tursodatabase/libsql) – Open-source SQLite fork with embedded replicas for local-first reads
+- - [VelesDB](https://github.com/cyberlife-coder/VelesDB) - Local-first vector + graph + columnar database written in Rust (~6MB binary). Source-available (Elastic License 2.0)
 
 ### State Management & Sync
 - [Legend State](https://github.com/LegendApp/legend-state) – Reactive state with persistence
