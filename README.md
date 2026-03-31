@@ -155,6 +155,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Obsidian](https://obsidian.md) – Markdown-based knowledge management with local vault storage
 
 **Productivity & Collaboration**
+- [Beetroot](https://github.com/mnardit/beetroot-releases) – Local-first clipboard manager for Windows (Tauri + Rust + React). All data in local SQLite, no account, no cloud, no telemetry. AI transforms use your own API keys.
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
