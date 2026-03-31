@@ -157,6 +157,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
+- [trimmr](https://trimmr.xyz) – Open-source browser editor for GIFs and short videos with local-only processing
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
 
