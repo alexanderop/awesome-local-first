@@ -153,6 +153,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Bangle.io](https://bangle.io) – Local-first notes
 - [Logseq](https://logseq.com) – Local-first knowledge base and outliner
 - [Obsidian](https://obsidian.md) – Markdown-based knowledge management with local vault storage
+- [SwarmVault](https://swarmvault.ai) – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. All data lives on disk; AI access via a local MCP server.
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
