@@ -24,6 +24,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Beehive (Ink & Switch 2024)](https://www.inkandswitch.com/beehive/) – Decentralized access control and convergent capabilities
 - [Ossa Protocol (2025)](https://ossa.dev) – Open universal sync protocol for local-first interoperability
 - [Implementing Local-First Architecture: A CTO's Guide](https://blog.4geeks.io/implementing-local-first-architecture-a-ctos-guide-to-performance-resilience-and-data-sovereignty/) – Practical guide covering schema migrations, encryption, and the server's changed role
+- [Building More Resilient Local-First Software with atproto](https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/) – Jake Lazaroff on using atproto as a sync-server foundation for local-first apps
 
 ### Ink & Switch Research
 - [Peritext: A CRDT for Rich-Text Collaboration](https://www.inkandswitch.com/peritext/) – Novel algorithm for merging concurrent rich-text edits
@@ -45,12 +46,14 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [SyncConf 2025 (Preview)](https://localfirstconf.com/syncconf2025) – Conference focused on synchronization
 - [CRDTs for Mortals – James Long (dotJS 2019)](https://www.youtube.com/watch?v=iEFcmfmdh2w) – Approachable intro to CRDTs through building a personal finance app
 - [CRDTs: The Hard Parts – Martin Kleppmann (Hydra 2020)](https://www.youtube.com/watch?v=x7drE24geUw) – Real-world CRDT challenges: move operations, interleaving, and performance
+- [Practical CRDTs – Schalk Venter](https://www.youtube.com/watch?v=aSbpYCG1eDE) – Applied walkthrough of CRDTs in local-first architecture
 
 ### Blog Series & Deep Dives
 - [Jared Forsyth's Local-First Database Series](https://jaredforsyth.com/tags/local-first/) – Evaluations of local-first databases against core criteria
 - [Bartosz Sypytkowski's CRDT Blog Series](https://www.bartoszsypytkowski.com/tag/crdt/) – 22-post series covering state-based and operation-based CRDTs
 - [The Spectrum of Local First Libraries](https://tolin.ski/posts/local-first-options) – Practical comparison of Triplit, Evolu, Zero, LiveStore, and others
 - [Comparing Local-First Frameworks (Neon)](https://neon.com/blog/comparing-local-first-frameworks-and-approaches) – Technical comparison of local-first frameworks
+- [Choosing a Sync Engine in 2026](https://johnny.sh/blog/choosing-a-sync-engine-in-2026/) – First-hand selection guide across modern sync engines
 
 ---
 
@@ -76,6 +79,8 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [OrbitDB](https://github.com/orbitdb/orbitdb) – Serverless P2P database on IPFS using Merkle-CRDTs
 - [cr-sqlite (Vulcan)](https://github.com/vlcn-io/cr-sqlite) – SQLite extension adding CRDT-based multi-writer replication
 - [libSQL](https://github.com/tursodatabase/libsql) – Open-source SQLite fork with embedded replicas for local-first reads
+- [PGlite](https://github.com/electric-sql/pglite) – Embeddable Postgres in WASM with reactive live queries, multi-tab worker support, and full SQL
+- [Turbolite](https://github.com/russellromney/turbolite) – SQLite VFS enabling sub-100ms cold JOIN queries against S3 with page-level compression and encryption
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) – Local-first vector + graph + columnar database written in Rust (~6MB binary). Source-available (Elastic License 2.0)
 
 ### State Management & Sync
@@ -161,6 +166,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
+- [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
