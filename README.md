@@ -21,6 +21,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Building Data-Centric Apps with a Reactive Relational Database](https://riffle.systems/essays/prelude) – Reactive DB patterns by Riffle
 - [End-to-End Encryption in the Browser](https://blog.excalidraw.com/end-to-end-encryption/) – E2E encryption technical breakdown
 - [Designing Data Structures for Collaborative Apps](https://mattweidner.com/2022/02/10/collaborative-data-design.html) – Practical guide to CRDT structure design
+- [How CRDTs and Sync Engines Keep Realtime Lists Ordered with Fractional Indexing](https://liveblocks.io/blog/how-crdts-and-sync-engines-keep-realtime-lists-ordered-with-fractional-indexing) – Liveblocks walkthrough of fractional indexing for conflict-free ordering of items in collaborative lists
 - [Beehive (Ink & Switch 2024)](https://www.inkandswitch.com/beehive/) – Decentralized access control and convergent capabilities
 - [Ossa Protocol (2025)](https://ossa.dev) – Open universal sync protocol for local-first interoperability
 - [Implementing Local-First Architecture: A CTO's Guide](https://blog.4geeks.io/implementing-local-first-architecture-a-ctos-guide-to-performance-resilience-and-data-sovereignty/) – Practical guide covering schema migrations, encryption, and the server's changed role
