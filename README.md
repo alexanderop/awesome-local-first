@@ -168,6 +168,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
+- [Socratic Council](https://github.com/richer-richard/socratic-council) – Local-first desktop app for AI Socratic seminars with 16 multi-provider agents, argument mapping, and encrypted file vault
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
