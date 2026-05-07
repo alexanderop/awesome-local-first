@@ -162,6 +162,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Obsidian](https://obsidian.md) – Markdown-based knowledge management with local vault storage
 - [SwarmVault](https://swarmvault.ai) – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. All data lives on disk; AI access via a local MCP server.
 
+**Language Learning**
+- [EchoTalk](https://alisolphp.github.io/EchoTalk/) - Privacy-first offline shadowing practice PWA. AI pronunciation feedback, local recordings, no account needed.
+
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
