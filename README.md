@@ -154,6 +154,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [AppFlowy](https://appflowy.com) – Open-source Notion alternative with full offline mode
 - [Standard Notes](https://standardnotes.com) – Open-source, E2E encrypted notes
 - [Joplin](https://joplinapp.org) – Open-source offline-first note-taking with optional E2E sync
+- [Kuku](https://kuku.mom) – Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [Notesnook](https://notesnook.com) – Open-source zero-knowledge encrypted notes
 - [Capacities](https://capacities.io) – Object-based note-taking with offline-first architecture
 - [Reflect](https://reflect.app) – Local-first networked notes with E2E encryption
