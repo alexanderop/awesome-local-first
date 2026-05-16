@@ -175,6 +175,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
+**Health & Fitness**
+- [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
+
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) – Building offline-first Vue apps
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) – Hands-on tutorial
