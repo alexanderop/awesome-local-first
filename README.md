@@ -95,6 +95,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Loro](https://loro.dev/) – JSON and rich-text CRDT
 - [Collabs](https://collabs.readthedocs.io/en/latest/) – Composable CRDTs from CMU (low activity)
 - [Diamond Types](https://github.com/josephg/diamond-types) – High-performance Rust CRDT for text editing (WIP)
+- [json-joy](https://github.com/streamich/json-joy) - New modern high-performance JSON and rich-text CRDT, values speed and correctness, has bindings to most plain text and rich-text editors
 
 ### Frameworks & Platforms
 - [Jazz (CoJSON)](https://jazz.tools) – Local-first framework with built-in auth, sync, permissions, and E2E encryption
@@ -155,6 +156,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Standard Notes](https://standardnotes.com) – Open-source, E2E encrypted notes
 - [Joplin](https://joplinapp.org) – Open-source offline-first note-taking with optional E2E sync
 - [Kuku](https://kuku.mom) – Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
+- [mu-txt](https://mutxt.com) &mdash; a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
 - [Notesnook](https://notesnook.com) – Open-source zero-knowledge encrypted notes
 - [Capacities](https://capacities.io) – Object-based note-taking with offline-first architecture
 - [Reflect](https://reflect.app) – Local-first networked notes with E2E encryption
