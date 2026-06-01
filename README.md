@@ -125,6 +125,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 ### Auth & Identity
 - [UCAN](https://ucan.xyz) – Trustless, offline-capable, delegated authorization tokens using DIDs
 - [DID (Decentralized Identifiers)](https://www.w3.org/TR/did-1.1/) – W3C standard for verifiable, self-sovereign digital identity
+- [authsome](https://github.com/agentrhq/authsome) – Local-first credential broker for AI agents. OAuth2 and API key vault stored under `~/.authsome`, a local HTTPS proxy on loopback injects credentials into outbound provider requests so the agent never sees raw secrets. 45 providers bundled. No cloud account, no SaaS dependency. Python, MIT.
 
 ### Security & Encryption
 - [OpenMLS](https://openmls.tech) – Rust implementation of the Messaging Layer Security (MLS) protocol for E2E encrypted group communication
