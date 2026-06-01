@@ -163,6 +163,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Obsidian](https://obsidian.md) – Markdown-based knowledge management with local vault storage
 - [SwarmVault](https://swarmvault.ai) – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. All data lives on disk; AI access via a local MCP server.
 - [Memex](https://github.com/memex-lab/memex) – Open-source, local-first AI journal for iOS and Android. A multi-agent system turns text, photo, and voice fragments into structured timeline cards, and organizes knowledge using the P.A.R.A. methodology. All data is stored on-device (filesystem + SQLite) and users bring their own LLM provider. [Website](https://www.memexlab.ai/)
+- [Screenpipe](https://github.com/screenpipe/screenpipe) – Open-source 24/7 local screen and microphone recorder that indexes OCR, accessibility, and transcripts into a searchable personal timeline for AI agents. Data stays on disk; cross-platform (macOS/Windows/Linux); works with Ollama or any local LLM. [Website](https://screenpi.pe)
 
 **Language Learning**
 - [EchoTalk](https://alisolphp.github.io/EchoTalk/) – Privacy-first offline shadowing practice PWA. AI pronunciation feedback, local recordings, no account needed.
