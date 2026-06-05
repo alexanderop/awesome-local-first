@@ -84,6 +84,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Turbolite](https://github.com/russellromney/turbolite) – SQLite VFS enabling sub-100ms cold JOIN queries against S3 with page-level compression and encryption
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) – Local-first vector + graph + columnar database written in Rust (~6MB binary). Source-available (Elastic License 2.0)
 
+### Testing & Correctness
+- [silentdrop](https://github.com/sravan27/silentdrop) – Conformance checker that finds silent data-loss bugs (LIKE / case-fold / comparison divergences from SQL semantics) in local-first DB query layers; proven on Dexie + AlaSQL
+
 ### State Management & Sync
 - [Legend State](https://github.com/LegendApp/legend-state) – Reactive state with persistence
 - [Replicache](https://replicache.dev) – Client-side sync with conflict resolution (maintenance mode; see Zero)
