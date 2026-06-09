@@ -95,6 +95,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Loro](https://loro.dev/) – JSON and rich-text CRDT
 - [Collabs](https://collabs.readthedocs.io/en/latest/) – Composable CRDTs from CMU (low activity)
 - [Diamond Types](https://github.com/josephg/diamond-types) – High-performance Rust CRDT for text editing (WIP)
+- [ygo](https://github.com/Deln0r/ygo) – Pure-Go port of Yjs, wire-compatible with the JavaScript reference (V1/V2 update codecs, awareness, snapshots, subdocs)
 
 ### Frameworks & Platforms
 - [Jazz (CoJSON)](https://jazz.tools) – Local-first framework with built-in auth, sync, permissions, and E2E encryption
