@@ -176,6 +176,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
+- [Ivy Tendril](https://tendril.ivy.app) – Open-source local-first AI coding orchestrator. Manages Claude Code, Codex, Antigravity, and other agents through a plan-based lifecycle with verification gates and git worktree isolation. Your code never leaves your machine. [GitHub](https://github.com/Ivy-Interactive/Ivy-Tendril)
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
