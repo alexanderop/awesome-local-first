@@ -184,6 +184,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
+- [LogZero](https://logzero.app) – All-in-one private habit and health tracker (mood, meds, food, exercise, weight) for iOS. 100% on-device with no account, no trackers, and zero network requests; AES-256 at rest with optional user-controlled encrypted export
 
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) – Building offline-first Vue apps
