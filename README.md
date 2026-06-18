@@ -115,6 +115,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Iroh](https://github.com/n0-computer/iroh) – QUIC-based Rust library for P2P connectivity with relay fallback
 - [IPFS](https://ipfs.tech) – Content-addressed P2P storage and distribution protocol
 - [Syncthing](https://syncthing.net) – Open-source continuous P2P file synchronization with E2E encryption
+- [ZamSync](https://github.com/Etoile-Bleu/ZamSync) -- Offline-first WAL sync engine in Rust for constrained networks. HLC ordering, Version Vector deduplication, mTLS, ChaCha20-Poly1305 encryption at rest, static binary under 5 MB for ARM.
 - [Nostr](https://github.com/nostr-protocol/nostr) – Open relay-based protocol for decentralized publishing
 - [AT Protocol](https://atproto.com) – Bluesky's protocol with self-authenticating data and portable identity
 - [Braid HTTP](https://braid.org) – IETF draft extending HTTP into a state synchronization protocol
