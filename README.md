@@ -156,6 +156,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Standard Notes](https://standardnotes.com) – Open-source, E2E encrypted notes
 - [Joplin](https://joplinapp.org) – Open-source offline-first note-taking with optional E2E sync
 - [Kuku](https://kuku.mom) – Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
+- [Markra](https://markra.app) – Open-source local-first WYSIWYG Markdown editor with native AI review. Keeps documents as plain `.md` files and lets users preview AI changes before applying them. [GitHub](https://github.com/murongg/markra)
 - [mu-txt](https://mutxt.com) &mdash; a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
 - [Notesnook](https://notesnook.com) – Open-source zero-knowledge encrypted notes
 - [Capacities](https://capacities.io) – Object-based note-taking with offline-first architecture
