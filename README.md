@@ -93,6 +93,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Automerge](https://automerge.org) – CRDT library with fast binary format & WASM support (v3.0 with 10x memory reduction)
 - [Yjs](https://docs.yjs.dev/) – High-performance CRDT framework
 - [Loro](https://loro.dev/) – JSON and rich-text CRDT
+- [loro-go](https://github.com/Deln0r/loro-go) – Pure-Go library for the Loro CRDT wire format (decode, merge, encode; no cgo)
 - [Collabs](https://collabs.readthedocs.io/en/latest/) – Composable CRDTs from CMU (low activity)
 - [Diamond Types](https://github.com/josephg/diamond-types) – High-performance Rust CRDT for text editing (WIP)
 - [json-joy](https://github.com/streamich/json-joy) - New modern high-performance JSON and rich-text CRDT, values speed and correctness, has bindings to most plain text and rich-text editors
