@@ -186,6 +186,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
 
+- [Vestige](https://github.com/samvallad33/vestige) - Local-first memory for AI coding agents. Finds the root cause of a bug by reaching backward in time to the quiet change that caused it (shared entity, not keyword similarity), the thing a vector search cannot do. One Rust binary, no cloud, data stays on your machine.
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) – Building offline-first Vue apps
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) – Hands-on tutorial
