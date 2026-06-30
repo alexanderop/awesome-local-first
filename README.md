@@ -172,6 +172,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
+- [Local MCP](https://local-mcp.com) – Local-first bridge between AI assistants and a Mac's real apps. Connects Claude, Cursor, ChatGPT and other MCP clients to Mail, Calendar, iMessage, Teams, Slack, WhatsApp, Notes, files, OneDrive and Office docs — tools run on-device (EventKit/JXA/local stores), no API keys or OAuth. For desktop/CLI clients nothing leaves the machine; an optional opt-in encrypted relay lets web AIs reach the same local Mac. macOS, free.
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
