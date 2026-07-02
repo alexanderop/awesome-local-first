@@ -165,6 +165,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Obsidian](https://obsidian.md) – Markdown-based knowledge management with local vault storage
 - [SwarmVault](https://swarmvault.ai) – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. All data lives on disk; AI access via a local MCP server.
 - [Memex](https://github.com/memex-lab/memex) – Open-source, local-first AI journal for iOS and Android. A multi-agent system turns text, photo, and voice fragments into structured timeline cards, and organizes knowledge using the P.A.R.A. methodology. All data is stored on-device (filesystem + SQLite) and users bring their own LLM provider. [Website](https://www.memexlab.ai/)
+- [Brainstorm](https://getbrainstorm.online) – Open-source (AGPL-3.0) local-first knowledge OS: a desktop shell hosting sandboxed apps (notes, databases, whiteboard, calendar, graph) over your own on-device data. Built on Yjs CRDTs, Block Protocol typed entities, and Lexical rich text, with a capability-based security model. [Source](https://github.com/brainstorm-os/shell)
 
 **Language Learning**
 - [EchoTalk](https://alisolphp.github.io/EchoTalk/) – Privacy-first offline shadowing practice PWA. AI pronunciation feedback, local recordings, no account needed.
