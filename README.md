@@ -163,6 +163,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Bangle.io](https://bangle.io) – Local-first notes
 - [Logseq](https://logseq.com) – Local-first knowledge base and outliner
 - [Obsidian](https://obsidian.md) – Markdown-based knowledge management with local vault storage
+- [Obsidian High Recall](https://github.com/ToussaintKnight/obsidian-high-recall-skill) - Local-first high-recall search CLI/agent skill for Obsidian vaults. Reuses local Smart Connections embeddings when available, falls back to local hybrid search, and keeps raw notes on-device.
 - [SwarmVault](https://swarmvault.ai) – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. All data lives on disk; AI access via a local MCP server.
 - [Memex](https://github.com/memex-lab/memex) – Open-source, local-first AI journal for iOS and Android. A multi-agent system turns text, photo, and voice fragments into structured timeline cards, and organizes knowledge using the P.A.R.A. methodology. All data is stored on-device (filesystem + SQLite) and users bring their own LLM provider. [Website](https://www.memexlab.ai/)
 
