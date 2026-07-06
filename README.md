@@ -61,6 +61,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 ## ⚙️ Development Tools & Libraries
 
 ### Database Solutions
+- [@0xsarwagya/durable-local](https://oss.sarwagya.wtf/durable-local/docs) — One named JSON value in IndexedDB with atomic RMW, migrations, and honest durability categorization. Explicitly not a database.
 - [Electric SQL](https://electric-sql.com/) – Sync Postgres data into local apps with offline support
 - [WatermelonDB](https://watermelondb.dev) – Reactive DB for React / React Native
 - [Fireproof](https://use-fireproof.com/) – Browser-native local-first database
@@ -124,6 +125,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [ObjectBox](https://objectbox.io) – High-performance on-device database with built-in data sync for mobile, IoT, and edge (sync is commercial)
 
 ### Auth & Identity
+- [@0xsarwagya/ghost](https://oss.sarwagya.wtf/ghost/docs) — Persistent browser identity via non-extractable Ed25519 CryptoKey in IndexedDB. No accounts, no OIDC.
 - [UCAN](https://ucan.xyz) – Trustless, offline-capable, delegated authorization tokens using DIDs
 - [DID (Decentralized Identifiers)](https://www.w3.org/TR/did-1.1/) – W3C standard for verifiable, self-sovereign digital identity
 
@@ -174,6 +176,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
+- [Local](https://local.sarwagya.wtf) — WebRTC chat with mutually-verified peer identity. No signup, no server-side identity. Source: github.com/0xsarwagya/local.
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
