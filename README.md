@@ -106,6 +106,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Hocuspocus](https://github.com/ueberdosis/hocuspocus) – Yjs WebSocket backend with persistence and authorization
 - [Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/) – Edge-deployed stateful primitives with built-in SQLite (cloud infrastructure)
 - [Earthstar](https://earthstar-project.org) – Offline-first P2P sync protocol for small-group collaboration
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) – Local-first memory lifecycle framework for AI agents. Rust CLI with SQLite/FTS recall, explicit writes, audit, redaction, forgetting, and no required hosted service.
 
 ### P2P & Networking
 - [libp2p](https://libp2p.io) – Modular P2P networking stack supporting TCP, QUIC, WebRTC, and WebTransport
