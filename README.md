@@ -177,6 +177,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [Prevail](https://prevail.sh) – Open-source (GPL-3.0) local-first AI "life OS": runs any model per life-domain over a plain-markdown vault you own. Works fully offline with local Ollama; sync via git, iCloud, or Tailscale. [Code](https://github.com/fru-dev3/prevail-desktop)
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
