@@ -177,6 +177,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [OATS](https://github.com/ariso-ai/oats) – Open-source macOS menu bar meeting-notes app with live transcription, speaker labels, AI summaries, and an optional fully offline on-device mode.
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
