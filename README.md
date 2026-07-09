@@ -225,6 +225,8 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 Pull requests welcome!
 Add tools, libraries, or case studies that advance **local-first**, **offline-first**, or **sync-centric** development.
 
+Important I cant not add every possible package that related to local first in some way I want to only focus on projects that already have a bigger majority level and are also used by many people
+
 ---
 
 ## 🪪 License
