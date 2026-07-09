@@ -186,6 +186,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
 
+**Food & Cooking**
+- [Recipe Jar](https://recipejar.app) – Local-first recipe keeper with no database: recipes live in your browser's IndexedDB. Paste a link to save a clean, ad-free card; unlimited recipes, fully offline as a PWA, one-file export for backups. The only server is a stateless fetch proxy that stores nothing. Open source (Svelte 5).
+
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) – Building offline-first Vue apps
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) – Hands-on tutorial
