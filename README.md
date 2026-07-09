@@ -167,7 +167,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Memex](https://github.com/memex-lab/memex) – Open-source, local-first AI journal for iOS and Android. A multi-agent system turns text, photo, and voice fragments into structured timeline cards, and organizes knowledge using the P.A.R.A. methodology. All data is stored on-device (filesystem + SQLite) and users bring their own LLM provider. [Website](https://www.memexlab.ai/)
 
 **Language Learning**
-- [AI Language Partner](https://github.com/duct-tape2/ai-language-partner) – Open-source local-first Japanese speaking practice app for Korean learners. Uses reviewed dialogue banks, local STT/TTS setup docs, a hosted mock-mode demo, and no runtime LLM/API dependency for the core practice loop.
+- [AI Language Partner](https://github.com/duct-tape2/ai-language-partner) – Open-source local-first Japanese-speaking practice app for Korean learners. Uses reviewed dialogue banks, local STT/TTS setup docs, a hosted mock-mode demo, and no runtime LLM/API dependency for the core practice loop.
 - [EchoTalk](https://alisolphp.github.io/EchoTalk/) – Privacy-first offline shadowing practice PWA. AI pronunciation feedback, local recordings, no account needed.
 - [KaChiKa](https://kachika.app/) – Local-first AI photo-to-flashcard app for language learners. Snap a photo of a real-world object and KaChiKa extracts vocabulary with example sentences. All images are processed and stored on-device — no upload. Uses spaced repetition for review scheduling. Available on [iOS](https://apps.apple.com/app/id6740193802) and [Android](https://play.google.com/store/apps/details?id=com.hugo.photoen).
 
