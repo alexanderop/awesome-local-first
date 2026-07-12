@@ -184,6 +184,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
 **Health & Fitness**
+- [Archery Note](https://eita115115.github.io/archery-note/) – Privacy-first archery practice notebook PWA. Scoring, sight marks, equipment, and on-device AI form tracking (MediaPipe pose). All data lives in localStorage; no account, no server, works offline. Open source (Apache-2.0, vanilla JS, no bundler).
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
 
 **Food & Cooking**
