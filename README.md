@@ -117,6 +117,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Syncthing](https://syncthing.net) – Open-source continuous P2P file synchronization with E2E encryption
 - [Nostr](https://github.com/nostr-protocol/nostr) – Open relay-based protocol for decentralized publishing
 - [AT Protocol](https://atproto.com) – Bluesky's protocol with self-authenticating data and portable identity
+- [Matrix](https://matrix.org) – Open decentralized protocol for secure, federated real-time communication with E2E encryption
 - [Braid HTTP](https://braid.org) – IETF draft extending HTTP into a state synchronization protocol
 
 ### Mobile-Specific
@@ -218,6 +219,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 ---
 
 ## 🎤 Conferences & Talks
+- [Local-First Conf 2026](https://localfirstconf.com) – Berlin edition (July 2026): Kleppmann, Steve Ruiz (tldraw), Jeffrey Heer (Mosaic), Iroh, Matrix, atproto, and more
 - [Local-First Conf 2024 Videos](https://www.youtube.com/@localfirstconf/videos) – Sessions by Kleppmann, Artman (Linear), etc.
 - [LoFi / 28 Meetup (2025)](https://localfirstnews.com/lofi28) – Dexie, Replication 3 Ways, Legend State performance talk
 - [SyncConf 2025 Preview](https://localfirstconf.com/syncconf2025) – Dedicated sync-tech event
