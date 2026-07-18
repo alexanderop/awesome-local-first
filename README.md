@@ -185,6 +185,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
+- [Kaiord](https://kaiord.com) – Open-source, local-first training platform: weekly calendar, visual workout editor, AI assistant, and Garmin & WHOOP sync. All data lives in the browser's IndexedDB; converts FIT, TCX, ZWO, and Garmin Connect workout files entirely client-side, with optional sync to your own Google Drive (MIT, TypeScript)
 
 **Food & Cooking**
 - [Recipe Jar](https://recipejar.app) – Local-first recipe keeper with no database: recipes live in your browser's IndexedDB. Paste a link to save a clean, ad-free card; unlimited recipes, fully offline as a PWA, one-file export for backups. The only server is a stateless fetch proxy that stores nothing. Open source (Svelte 5).
