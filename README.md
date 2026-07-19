@@ -83,6 +83,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [PGlite](https://github.com/electric-sql/pglite) – Embeddable Postgres in WASM with reactive live queries, multi-tab worker support, and full SQL
 - [Turbolite](https://github.com/russellromney/turbolite) – SQLite VFS enabling sub-100ms cold JOIN queries against S3 with page-level compression and encryption
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) – Local-first vector + graph + columnar database written in Rust (~6MB binary). Source-available (Elastic License 2.0)
+- [ferrovec](https://singhpratech.github.io/ferrovec/) – Browser-native semantic search: a Rust→WASM HNSW vector index (~33KB gzip) with OPFS persistence, offline embeddings (transformers.js), and cross-tab single-writer coordination. MIT
 
 ### State Management & Sync
 - [Legend State](https://github.com/LegendApp/legend-state) – Reactive state with persistence
