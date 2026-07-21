@@ -181,6 +181,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [Orkas](https://orkas.ai?source=gh-localfirst) – MIT-licensed open-source, local-first multi-agent desktop workspace with on-device conversations, files, agent configuration, and BYO model keys, plus local-model support and optional sync. [GitHub](https://github.com/Orkas-AI/Orkas)
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
