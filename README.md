@@ -181,6 +181,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [Clawdbot.tech](https://clawdbot.tech/) – Multilingual deployment guide and configuration archive for the self-hosted [OpenClaw](https://openclaw.ai) AI agent. Local-first with 5-language install docs (EN/中/日/ES/FR), security white paper, and changelog covering the Clawdbot → Moltbot → OpenClaw rename history. Data lives on-device, no cloud account required.
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
