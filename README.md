@@ -96,6 +96,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Collabs](https://collabs.readthedocs.io/en/latest/) – Composable CRDTs from CMU (low activity)
 - [Diamond Types](https://github.com/josephg/diamond-types) – High-performance Rust CRDT for text editing (WIP)
 - [json-joy](https://github.com/streamich/json-joy) - New modern high-performance JSON and rich-text CRDT, values speed and correctness, has bindings to most plain text and rich-text editors
+- [Ama.CRDT](https://github.com/phaetto/Ama.CRDT) A .NET 10 high-performance, Native AOT-ready library for building eventually consistent distributed systems using Conflict-free Replicated Data Types (CRDTs). Seamlessly sync, patch, and merge plain C# objects (POCOs) with zero reflection
 
 ### Frameworks & Platforms
 - [Jazz (CoJSON)](https://jazz.tools) – Local-first framework with built-in auth, sync, permissions, and E2E encryption
