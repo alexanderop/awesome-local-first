@@ -189,6 +189,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
+- [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal-en/) – Local-first care organizer PWA with data stored only in the browser, accessible simple/full views, offline access, backups, calendar export, and no account required.
 
 **Food & Cooking**
 - [Recipe Jar](https://recipejar.app) – Local-first recipe keeper with no database: recipes live in your browser's IndexedDB. Paste a link to save a clean, ad-free card; unlimited recipes, fully offline as a PWA, one-file export for backups. The only server is a stateless fetch proxy that stores nothing. Open source (Svelte 5).
