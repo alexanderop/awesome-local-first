@@ -185,6 +185,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
+- [Money HQ (2026)](https://money-hq.pages.dev) – Offline-first personal budgeting in a single HTML file: envelope budgets, recurring bills, debt payoff planner, savings goals and net worth. No account and no server — data lives in the browser and in your own file. Optional device-to-device sync is end-to-end encrypted (PBKDF2 + AES-GCM). Installable PWA, works fully offline, 8 languages. Paid one-time, free live demo.
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
 **Health & Fitness**
