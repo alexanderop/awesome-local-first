@@ -181,6 +181,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [Seamside](https://seamside.com) - Local-first, p2p, collaborative hosting and creation platform. Uses iroh under the hood for direct dialing of other locally found devices and syncs between trusted users next time they are online; cross-platform (macOS/Windows/Linux); works with local AI models; secure data is stored locally in encrypted SQLite; direct filesystem access to any custom frames and code you control.
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
