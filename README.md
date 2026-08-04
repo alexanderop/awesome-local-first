@@ -181,6 +181,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [PDF Mavericks](https://www.pdfmavericks.com) – Local-first PDF toolkit: compress, merge, split, sign, annotate, convert, and password-protect. Every operation runs in the browser via PDF.js and pdf-lib — no upload, no account, and the tools keep working offline once the page has loaded.
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
