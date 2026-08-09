@@ -175,7 +175,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [KaChiKa](https://kachika.app/) – Local-first AI photo-to-flashcard app for language learners. Snap a photo of a real-world object and KaChiKa extracts vocabulary with example sentences. All images are processed and stored on-device — no upload. Uses spaced repetition for review scheduling. Available on [iOS](https://apps.apple.com/app/id6740193802) and [Android](https://play.google.com/store/apps/details?id=com.hugo.photoen).
 
 **Interview & Skills Practice**
-- [nod3](https://github.com/ostapondo/nod3) – Local-first trainer for algorithm interviews. Records what you say and what you type on one clock, then reports the stretches where you coded in silence. Speech recognition runs on-device with whisper.cpp; audio, transcripts and reports are plain files on disk, with no browser storage and no account. Fully offline end to end when pointed at a local Ollama model (MIT, TypeScript).
+- [nod3](https://github.com/ostapondo/nod3) – Local-first trainer for algorithm interviews. Records what you say and what you type on one clock, then reports the stretches where you coded in silence. Speech recognition runs on-device with whisper.cpp; audio, transcripts and reports are plain files on disk, with no browser storage and no account. Fully offline end-to-end when pointed at a local Ollama model (MIT, TypeScript).
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
