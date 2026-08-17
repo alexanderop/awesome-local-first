@@ -160,6 +160,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Kuku](https://kuku.mom) – Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [Markra](https://markra.app) – Open-source local-first WYSIWYG Markdown editor with native AI review. Keeps documents as plain `.md` files and lets users preview AI changes before applying them. [GitHub](https://github.com/murongg/markra)
 - [mu-txt](https://mutxt.com) &mdash; a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
+- [Ferrow](https://ferrow.ai) – Local-first Markdown vault with reversible AI agents. Notes are plain `.md` files on disk and every AI edit is undoable. Free local core for macOS, Windows, and Linux; optional paid relay for multi-device sync.
 - [Notesnook](https://notesnook.com) – Open-source zero-knowledge encrypted notes
 - [Capacities](https://capacities.io) – Object-based note-taking with offline-first architecture
 - [Reflect](https://reflect.app) – Local-first networked notes with E2E encryption
