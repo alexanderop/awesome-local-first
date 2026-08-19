@@ -186,6 +186,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Actual](https://actualbudget.com) – Local-first budgeting
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
+- [Paperpack (2026)](https://paperpack-7v7.pages.dev/) – Australian working holiday tax and DASP calculator; all computation stays in the browser, nothing typed is sent anywhere. 8 locales. [GitHub](https://github.com/ChangkeunJ/paperpack)
 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
