@@ -174,13 +174,14 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [EchoTalk](https://alisolphp.github.io/EchoTalk/) – Privacy-first offline shadowing practice PWA. AI pronunciation feedback, local recordings, no account needed.
 - [KaChiKa](https://kachika.app/) – Local-first AI photo-to-flashcard app for language learners. Snap a photo of a real-world object and KaChiKa extracts vocabulary with example sentences. All images are processed and stored on-device — no upload. Uses spaced repetition for review scheduling. Available on [iOS](https://apps.apple.com/app/id6740193802) and [Android](https://play.google.com/store/apps/details?id=com.hugo.photoen).
 
-**Productivity & Collaboration**
+|**Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [Earkeep](https://earkeep.com) – Always-on local meeting transcriber. No bot, no cloud, no record button. Everything runs locally on your desktop. €39 once, no subscription.
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
