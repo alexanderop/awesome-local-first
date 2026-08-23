@@ -185,6 +185,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
+- [Slashbooks](https://github.com/giltotherescue/slashbooks) – Local-first AI bookkeeping
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
 **Health & Fitness**
