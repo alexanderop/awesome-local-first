@@ -130,6 +130,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [DID (Decentralized Identifiers)](https://www.w3.org/TR/did-1.1/) – W3C standard for verifiable, self-sovereign digital identity
 
 ### Security & Encryption
+- [Ombracrypt](https://github.com/ABiswasDev/Ombracrypt) – Strictly offline, zero-telemetry file encryption with Post-Quantum Cryptography (PQC) and anti-coercion duress codes.
 - [OpenMLS](https://openmls.tech) – Rust implementation of the Messaging Layer Security (MLS) protocol for E2E encrypted group communication
 - [MLS Protocol (RFC 9420)](https://datatracker.ietf.org/doc/rfc9420/) – IETF standard for scalable E2E encrypted group messaging
 - [Notes on CRDTs + E2E Encryption](https://kerkour.com/crdt-end-to-end-encryption-research-notes) – Practical research notes on combining CRDTs with encryption
