@@ -196,6 +196,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Food & Cooking**
 - [Recipe Jar](https://recipejar.app) – Local-first recipe keeper with no database: recipes live in your browser's IndexedDB. Paste a link to save a clean, ad-free card; unlimited recipes, fully offline as a PWA, one-file export for backups. The only server is a stateless fetch proxy that stores nothing. Open source (Svelte 5).
 
+**Social Media**
+- [SafeUnfollow](https://safeunfollow.app) – Local-first Instagram unfollower tracker. You upload Meta's official data export and the ZIP is parsed in a Web Worker, then kept in the browser's IndexedDB using columnar storage and bitsets, built for exports up to 1M accounts. No login, no account and no upload — there is no backend to send anything to. Open source (MIT, React + TypeScript), 10 locales. [GitHub](https://github.com/ignromanov/safe-unfollow)
+
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) – Building offline-first Vue apps
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) – Hands-on tutorial
