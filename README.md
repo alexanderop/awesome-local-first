@@ -184,6 +184,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [YYLO](https://github.com/yylo-dev/yylo) – Open-source (MIT) command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes, with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree per task. Local-first by architecture: task and record state live as Git-native files inside the repository and sync through git. Install via npm ([@yylo/cli](https://www.npmjs.com/package/%40yylo%2Fcli)).
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
