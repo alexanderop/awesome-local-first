@@ -196,6 +196,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Food & Cooking**
 - [Recipe Jar](https://recipejar.app) – Local-first recipe keeper with no database: recipes live in your browser's IndexedDB. Paste a link to save a clean, ad-free card; unlimited recipes, fully offline as a PWA, one-file export for backups. The only server is a stateless fetch proxy that stores nothing. Open source (Svelte 5).
 
+**Tabletop Gaming**
+- [Gnasher's Grimoire](https://longislanddungeonmaster.com/grimoire) – Local-first Dungeon Master's screen for tabletop D&D. One self-contained HTML file that runs offline with no server and no account; bundles the SRD 5.2.1, a combat tracker and a battle map with fog, and imports PDFs, Markdown and Obsidian vaults.
+
 ### Learning Resources
 - [SQLite in Vue Guide](https://alexop.dev/posts/sqlite-vue3-offline-first-web-apps-guide/) – Building offline-first Vue apps
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) – Hands-on tutorial
