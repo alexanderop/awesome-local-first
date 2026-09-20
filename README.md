@@ -177,6 +177,9 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Writing & Editing**
 - [Harper](https://writewithharper.com/) – Privacy-first, local grammar checker for prose.
 
+**Media & Files**
+- [ShrinkKit](https://p32929.github.io/shrinkkit/) – Local-first bulk image compressor. Compresses, resizes and converts a whole folder of images to WebP/JPEG/PNG entirely in the browser, stripping EXIF/GPS metadata in the process; the files never leave the device and it keeps working offline after the first load. One static HTML file, no tracking. Source-available at [GitHub](https://github.com/p32929/shrinkkit).
+
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
