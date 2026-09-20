@@ -179,7 +179,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
-- [Focus Flow](https://focusflow.ink) – Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and offline data export. All data stays in localStorage/IndexedDB with zero network requests. PWA with WCAG AAA themes. [GitHub](https://github.com/w3ziqv/focus-flow)
+- [Focus Flow](https://focusflow.ink) – Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and offline data export. Data stays in localStorage/IndexedDB by default; optional webhooks can send alerts over HTTP. PWA with WCAG AAA themes. [GitHub](https://github.com/w3ziqv/focus-flow)
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
