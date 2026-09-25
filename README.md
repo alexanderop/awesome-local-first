@@ -83,6 +83,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [PGlite](https://github.com/electric-sql/pglite) – Embeddable Postgres in WASM with reactive live queries, multi-tab worker support, and full SQL
 - [Turbolite](https://github.com/russellromney/turbolite) – SQLite VFS enabling sub-100ms cold JOIN queries against S3 with page-level compression and encryption
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) – Local-first vector + graph + columnar database written in Rust (~6MB binary). Source-available (Elastic License 2.0)
+- [Concile (2026)](https://github.com/concile-dev/concile) – Self-hosted reactive backend with live TypeScript queries, an offline outbox that replays writes exactly once, and SQLite or Postgres. Source-available (FSL-1.1-Apache-2.0)
 
 ### State Management & Sync
 - [Legend State](https://github.com/LegendApp/legend-state) – Reactive state with persistence
