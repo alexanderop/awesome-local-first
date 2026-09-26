@@ -188,6 +188,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
+- [MyneWallet](https://thebrinklabs.com/mynewallet/) – Offline-first zero-based budget tracker with on-device encrypted SQLite storage and zero telemetry
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
 **Health & Fitness**
