@@ -59,6 +59,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 ---
 
 ## ⚙️ Development Tools & Libraries
+- [File Converter](https://fileontap.com/) - Browser-local image and PDF conversion; files stay on-device with no account required.
 
 ### Database Solutions
 - [Electric SQL](https://electric-sql.com/) – Sync Postgres data into local apps with offline support
