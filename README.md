@@ -189,6 +189,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Actual](https://actualbudget.com) – Local-first budgeting
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
+- [Lotti](https://github.com/matthiasn/lotti) – Open-source local-first logbook for tasks, time tracking and journaling, with end-to-end encrypted sync between your own devices (no server holds readable data) and a TLA+-verified sync protocol
 
 **Health & Fitness**
 - [nobro.app](https://nobro.app/) – Minimalist offline-first workout program tracker. State lives in localStorage, program is editable JSON, 11 locales
