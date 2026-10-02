@@ -184,6 +184,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [Superhuman](https://superhuman.com) – Offline-first email client
 - [GitComet](https://github.com/Auto-Explore/GitComet) – Open-source (AGPL-3.0) local-first Git GUI in Rust for Linux, macOS, and Windows
 - [AI Workdeck](https://github.com/zeweihan/aiworkdeck) – Open-source AI-native workspace for legal and document-heavy workflows. Local-first with Ollama + local storage, OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration. Self-hosted (Java/Spring Boot + Vue + Electron + Docker, AGPLv3).
+- [AragonTask](https://github.com/xdrshjr/AragonTODO) – Open-source local-first Android app combining todos, an expense ledger, and memos. All data stays on-device as a single exportable JSON document with one-tap backup; optional BYO-key AI agent (OpenAI/Anthropic/custom endpoint) for natural-language data entry. No accounts, no cloud sync, no ads. [Website](https://xdrshjr.github.io/AragonTODO/)
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
