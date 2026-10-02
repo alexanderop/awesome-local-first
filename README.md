@@ -187,6 +187,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Personal & Finance**
 - [Actual](https://actualbudget.com) – Local-first budgeting
+- [BusinessOS](https://businessos.biz) – Offline-first business platform with invoicing, expenses, CRM, and financial calculators. Data lives in IndexedDB, optional E2E encrypted sync
 - [Finbodhi (2025)](https://finbodhi.com) – Encrypted personal-finance app
 - [Timelinize (2025)](https://timelinize.com) – Local data aggregation into a personal timeline
 
