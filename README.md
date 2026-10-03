@@ -3,6 +3,8 @@
 A curated list of **local-first software**, resources, and development tools.
 Local-first software prioritizes **data ownership**, **offline functionality**, and **synchronization** — keeping user data primarily on their devices.
 
+> **Contributions are closed.** This repository no longer accepts pull requests or project submissions. Please read the [contribution policy](#-contributing) below.
+
 ---
 
 ## 🧩 Core Resources
@@ -233,10 +235,14 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 ---
 
 ## 🤝 Contributing
-Pull requests welcome!
-Add tools, libraries, or case studies that advance **local-first**, **offline-first**, or **sync-centric** development.
 
-Important I cant not add every possible package that related to local first in some way I want to only focus on projects that already have a bigger majority level and are also used by many people
+**This repository is no longer accepting contributions, pull requests, or project submissions.**
+
+I have received too many submissions focused on promoting a product, along with very new projects—sometimes only a day old. I do not have the time to investigate every submission and assess its maturity, quality, and fit for this list.
+
+All open pull requests are being closed, and new submissions will not be reviewed. Please do not open pull requests or issues to request additions to the list.
+
+Thank you to everyone who has contributed useful resources over the years.
 
 ---
 
