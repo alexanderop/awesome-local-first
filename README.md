@@ -178,6 +178,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Writing & Editing**
 - [Harper](https://writewithharper.com/) – Privacy-first, local grammar checker for prose.
+- [Lixity](https://mfahsold.github.io/lixity/) – Local manuscript analysis for authors and editors: sentence rhythm, vocabulary, dialogue and tense with every number linked to its passage, plus a local research workspace. Offline, no account (new project, German and English profiles).
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
