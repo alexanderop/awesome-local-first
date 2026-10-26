@@ -248,3 +248,4 @@ Thank you to everyone who has contributed useful resources over the years.
 
 ## 🪪 License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+- [iPhone Data Manager](https://iphonedatamanager.com) - Native macOS local-first iPhone backup manager, Data Time Machine diff viewer, and offline SHA-256 WhatsApp PDF/CSV exporter.
