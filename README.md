@@ -181,6 +181,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
+- [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) – Open-source desktop apps for iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos on Linux and Windows, with the whole library on the device and offline edits synced later
 - [tldraw](https://tldraw.com) – Open-source infinite canvas whiteboard SDK
 - [Huly](https://huly.io) – Open-source all-in-one project management platform with offline-first client
 - [Superhuman](https://superhuman.com) – Offline-first email client
