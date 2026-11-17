@@ -164,6 +164,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [mu-txt](https://mutxt.com) &mdash; a polished local-first rich-text editor based on `json-joy` Peritext CRDT, available as a web app and desktop app (`npx mu-txt`), plus open-source React `mutxt-react` and Web Component `mutxt-element` libraries.
 - [Notesnook](https://notesnook.com) – Open-source zero-knowledge encrypted notes
 - [Capacities](https://capacities.io) – Object-based note-taking with offline-first architecture
+- [CapsuleCraft](https://github.com/kostyk348/CapsuleCraft) – Zero-database personal workspace: every note is a plain RFC 5322 `.eml` file, so there are no rows to desync and no migration to run; Rust desktop and web.
 - [Reflect](https://reflect.app) – Local-first networked notes with E2E encryption
 - [Bangle.io](https://bangle.io) – Local-first notes
 - [Logseq](https://logseq.com) – Local-first knowledge base and outliner
