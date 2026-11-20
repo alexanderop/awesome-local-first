@@ -85,6 +85,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 - [PGlite](https://github.com/electric-sql/pglite) – Embeddable Postgres in WASM with reactive live queries, multi-tab worker support, and full SQL
 - [Turbolite](https://github.com/russellromney/turbolite) – SQLite VFS enabling sub-100ms cold JOIN queries against S3 with page-level compression and encryption
 - [VelesDB](https://github.com/cyberlife-coder/VelesDB) – Local-first vector + graph + columnar database written in Rust (~6MB binary). Source-available (Elastic License 2.0)
+- [EdgeReco](https://edge-reco.com) – Open-source (MIT) 1,000,000-product hybrid BM25 + 2-bit quantized vector search and recommendations running entirely in a browser tab via SQLite WASM, OPFS, and Ed25519-signed chunked delta bundles. [GitHub](https://github.com/gainratio/edge-reco)
 
 ### State Management & Sync
 - [Legend State](https://github.com/LegendApp/legend-state) – Reactive state with persistence
